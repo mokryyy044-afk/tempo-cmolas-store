@@ -1,0 +1,8 @@
+<svg width="340" height="340" viewBox="0 0 340 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="70" y="80" width="120" height="150" rx="10" fill="#0B63CE"/>
+  <path d="M92 80H122V230H92V80ZM138 80H168V230H138V80Z" fill="#F7F8F3"/>
+  <circle cx="226" cy="188" r="58" fill="#07110C"/>
+  <path d="M204 160H248L258 188L226 226L194 188L204 160Z" fill="#9ECBFF"/>
+  <rect x="94" y="242" width="152" height="28" rx="14" fill="#9ECBFF"/>
+  <text x="170" y="263" text-anchor="middle" font-family="Arial" font-size="18" font-weight="900" fill="#07110C">JUNIOR KIT</text>
+</svg>

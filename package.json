@@ -1,0 +1,32 @@
+{
+  "name": "tempo-cmolas-store",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "dev:host": "HOST=0.0.0.0 node scripts/dev-server.mjs",
+    "build": "next build",
+    "preview": "next start",
+    "doctor": "node scripts/doctor.mjs",
+    "start": "npm run dev",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "lucide-react": "^0.511.0",
+    "next": "^15.5.18",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "optionalDependencies": {
+    "@next/swc-wasm-nodejs": "15.5.18",
+    "lightningcss-darwin-arm64": "^1.32.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.8.0"
+  }
+}

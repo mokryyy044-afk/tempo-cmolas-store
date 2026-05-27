@@ -1,0 +1,7 @@
+<svg width="340" height="340" viewBox="0 0 340 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M140 54H200V88H140V54Z" fill="#07110C"/>
+  <path d="M130 88H210V122L226 154V278C226 294 214 306 198 306H142C126 306 114 294 114 278V154L130 122V88Z" fill="#E9F4FF"/>
+  <path d="M114 174H226V242H114V174Z" fill="#0B63CE"/>
+  <text x="170" y="217" text-anchor="middle" font-family="Arial" font-size="25" font-weight="900" fill="#F7F8F3">TEMPO</text>
+  <path d="M140 88H200" stroke="#FFFFFF" stroke-width="10"/>
+</svg>

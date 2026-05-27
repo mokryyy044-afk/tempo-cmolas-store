@@ -1,0 +1,9 @@
+<svg width="340" height="340" viewBox="0 0 340 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="340" height="340" rx="28" fill="#F6FBFF"/>
+  <path d="M112 58L150 78H190L228 58L286 94L262 160L238 148V286H102V148L78 160L54 94L112 58Z" fill="#0B63CE"/>
+  <path d="M150 78H190L206 64L228 58L286 94L262 160L238 148V286H210V98H130V286H102V148L78 160L54 94L112 58L134 64L150 78Z" fill="#FFFFFF"/>
+  <path d="M132 98H208V286H132V98Z" fill="#0B63CE"/>
+  <path d="M146 164H194L204 192L170 234L136 192L146 164Z" fill="#071B3A"/>
+  <path d="M154 180H186L190 192L170 214L150 192L154 180Z" fill="#FFFFFF"/>
+  <text x="170" y="265" text-anchor="middle" font-family="Arial" font-size="28" font-weight="900" fill="#FFFFFF">TC</text>
+</svg>
